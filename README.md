@@ -20,4 +20,4 @@ https://www.linkedin.com/in/sovit-roy-385353271/
 Copyright (c) 2023 Sovit Roy
 
 ## Code of conduct
-[Check it out](Code_of_Conduct.md)
+[Check it out](Code_Of_Conduct.md)
